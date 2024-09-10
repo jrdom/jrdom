@@ -23,8 +23,6 @@ Mestrando em tecnologia com enfase em Jurimetria e Redes Complexas, pós graduan
 
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=jrdom&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
