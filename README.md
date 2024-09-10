@@ -1,6 +1,8 @@
 # 💫 About Me:
 Mestrando em tecnologia com enfase em Jurimetria e Redes Complexas, pós graduando em jurimetria - ciência de dados aplicada ao direito, especialista em Direito Tributário pela Universidade Presbiteriana Mackenzie, graduado em Direito pela Faculdade Metrocamp/Ibmec, com curso Técnico de Informática pela Escola Secundária de Mem Martins - Portugal.
 
+<div align="center">
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jrdom) 
 
