@@ -18,6 +18,7 @@ Master's student in Technology with an emphasis on Jurimetrics and Complex Netwo
 </div>
 <br/>
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jrdom&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
