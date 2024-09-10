@@ -15,6 +15,7 @@ Mestrando em tecnologia com enfase em Jurimetria e Redes Complexas, pós graduan
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrdom&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </div>
 <br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jrdom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
