@@ -17,6 +17,10 @@ Mestrando em tecnologia com enfase em Jurimetria e Redes Complexas, pós graduan
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jrdom&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+
+[![](https://visitcount.itsvg.in/api?id=jrdom&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 </div>
 
 ---
