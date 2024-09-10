@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mestrando em tecnologia com enfase em Jurimetria e Redes Complexas, pós graduando em jurimetria - ciência de dados aplicada ao direito, especialista em Direito Tributário pela Universidade Presbiteriana Mackenzie, graduado em Direito pela Faculdade Metrocamp/Ibmec, com curso Técnico de Informática pela Escola Secundária de Mem Martins - Portugal.
+Master's student in Technology with an emphasis on Jurimetrics and Complex Networks at the School of Technology of UNICAMP, specialist in Jurimetrics - data science applied to law, specialist in Tax Law from Universidade Presbiteriana Mackenzie, graduated in Law from Faculdade Metrocamp/Ibmec, with a Technical Course in Information Technology from Escola Secundária de Mem Martins-Portugal.
 
 <div align="center">
 
