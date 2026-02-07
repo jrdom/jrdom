@@ -1,5 +1,5 @@
 # 💫 About Me:
-Master's student in Technology with an emphasis on Jurimetrics and Complex Networks at the School of Technology of UNICAMP, specialist in Jurimetrics - data science applied to law, specialist in Tax Law from Universidade Presbiteriana Mackenzie, graduated in Law from Faculdade Metrocamp/Ibmec, with a Technical Course in Information Technology from Escola Secundária de Mem Martins-Portugal.
+PhD student in Technology at the University of Campinas (UNICAMP), holder of a Master’s degree in Technology from UNICAMP, with an emphasis on Jurimetrics and Complex Networks, Specialist in Jurimetrics, Specialist in Tax Law from Universidade Presbiteriana Mackenzie, with a Law degree from Faculdade Metrocamp/Ibmec, and a Technical Informatics certificate from Escola Secundária de Mem Martins, Portugal.
 
 <div align="center">
 
